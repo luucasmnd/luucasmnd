@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="200" src="?????"  />
-</div>
-
-###
-
-<div align="center">
   <img height="200" src="https://media.tenor.com/aCE-S-0HIEgAAAAC/coucou-salut.gif"  />
 </div>
 
