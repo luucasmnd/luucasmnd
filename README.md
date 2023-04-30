@@ -3,5 +3,5 @@
 </div>
 <br><br>
 <div align="center">
-  <img height="200" src="</div>https://upload.wikimedia.org/wikipedia/commons/8/8c/Screamer1.gif"/>
+  <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Screamer1.gif"/>
 </div>
