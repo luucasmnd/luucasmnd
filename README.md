@@ -24,12 +24,6 @@
   <img src="https://streak-stats.demolab.com?user=luucasmnd&locale=fr&mode=daily&theme=discord_old_blurple&hide_border=true&border_radius=10&date_format=j/n[/Y]&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/luucasmnd/luucasmnd/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/luucasmnd/count.svg?"  />
 </div>
