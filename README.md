@@ -19,7 +19,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luucasmnd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=discord_old_blurple&locale=fr&hide_border=true&order=1&custom_title=@luucasmnd stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luucasmnd&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=discord_old_blurple&hide_border=true&order=2&custom_title=Langages" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=luucasmnd&locale=fr&mode=daily&theme=discord_old_blurple&hide_border=true&border_radius=10&date_format=j/n[/Y]&order=3" height="150" alt="streak graph"  />
 </div>
